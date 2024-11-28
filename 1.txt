@@ -1,2 +1,4 @@
 java
 computer science
+maths
+social
